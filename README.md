@@ -10,3 +10,12 @@ Data cleaning and preprocessing.
 Data analysis using formulas, pivot tables, and conditional formatting.
 Visualization through charts and graphs (e.g., bar charts, pie charts, line graphs).
 Statistical analysis for identifying key factors affecting cancellations.
+## Features
+Data Cleaning: Removing duplicates, handling missing values, and standardizing data formats.
+Exploratory Analysis:
+Trends in booking cancellations over time.
+Key demographic and behavioral patterns of customers who cancel.
+Interactive Dashboards:
+Visualizing cancellation trends and contributing factors with Excel charts.
+Insights and Recommendations:
+Summary of findings to help hotels reduce cancellations.
