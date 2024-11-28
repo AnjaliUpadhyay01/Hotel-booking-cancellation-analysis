@@ -5,7 +5,7 @@ Understand customer behavior leading to cancellations.
 Identify patterns and trends in the booking data.
 Provide data-driven recommendations for improving booking retention.
 ## Dataset used
-
+<a href = "https://github.com/AnjaliUpadhyay01/Hotel-booking-cancellation-analysis/blob/main/Hotel%20booking%20cancellation%20analysis.xlsx"> DataSet</a>
 # Tools Used
 Microsoft Excel:
 Data cleaning and preprocessing.
